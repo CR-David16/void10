@@ -13,5 +13,9 @@
  
 == INSTALLATION ==
 
+git clone https://github.com/David-Castro16/void10.git
+sudo cp -r void10/ /usr/share/plymouth/themes/
+sudo plymouth-set-default-theme -R void10
+
 == LICENSE ==
 This theme is licensed under GPLv2, for more details check LICENSE.
