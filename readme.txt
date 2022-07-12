@@ -2,7 +2,7 @@
  
                         THIS THEME IS A FORK!!!!
  
-  This theme is a fork for the theme "deb10" made by: Mauro A. Meloni 
+  This theme is a fork of the theme "deb10" made by: Mauro A. Meloni 
   <maumeloni@gmail.com> https://maurom.com/
   https://gitlab.com/maurom/deb10
   please watch his projects!!!!!!
