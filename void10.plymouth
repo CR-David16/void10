@@ -1,0 +1,8 @@
+[Plymouth Theme]
+Name=Void10
+Description=Void Linux plymouth theme like a Windows 10 boot splash theme
+ModuleName=script
+
+[script]
+ImageDir=/usr/share/plymouth/themes/void10
+ScriptFile=/usr/share/plymouth/themes/void10/void10.script
