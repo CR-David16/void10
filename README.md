@@ -1,7 +1,7 @@
 # void10
 Void Linux plymouth theme like a Windows 10 boot splash theme
 
-![Preview]()
+
 
 # This theme is a fork!
 This theme is a fork of the theme "deb10" made by: Mauro A. Meloni 
